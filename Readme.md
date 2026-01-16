@@ -8,7 +8,7 @@ Handy shortcuts making use of the awesome [fzf fuzzy finder](https://github.com/
 
 Using [fisher](https://github.com/jorgebucaran/fisher) :
 ```console
-fisher add Gazorby/fish-finders
+fisher install mobalt/fish-finders
 ```
 
 ## 🔧 Usage
@@ -25,4 +25,4 @@ fisher add Gazorby/fish-finders
 
 ## 📝 License
 
-[MIT](https://github.com/Gazorby/fish-finders/blob/master/LICENSE)
+[MIT](https://github.com/mobalt/fish-finders/blob/master/LICENSE)
