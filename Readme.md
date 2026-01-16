@@ -15,13 +15,14 @@ fisher install mobalt/fish-finders
 
 | Command      | Description |
 |--------      | ----------- |
-| fabbr        | Fuzzy search fish abbreviations |
-| fbranch      | Fuzzy search git branches |
-| fenv         | Fuzzy search environment variables |
-| fif [regex]  | Fuzzy search pattern in files using [rg](https://github.com/BurntSushi/ripgrep) and [bat](https://github.com/sharkdp/bat) |
-| fkill        | Fuzzy search a process to kill |
-| fport        | Fuzzy search a listening port |
-| fssh         | Fuzzy search an ssh host |
+| fabbr        | Search fish abbreviations |
+| fbranch      | Search git branches |
+| fenv         | Search environment variables |
+| fif [regex]  | Search pattern in files using [rg](https://github.com/BurntSushi/ripgrep) and [bat](https://github.com/sharkdp/bat) |
+| fkill        | Search a process to kill |
+| fmeta        | Search fish-finders functions and run selected |
+| fport        | Search a listening port |
+| fssh         | Search an ssh host |
 
 ## 📝 License
 

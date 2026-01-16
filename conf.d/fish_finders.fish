@@ -7,4 +7,5 @@ function __fish_finders_uninstall --on-event fish_finders_uninstall
     functions --erase fpid
     functions --erase fport
     functions --erase fssh
+    functions --erase fmeta
 end
